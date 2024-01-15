@@ -2,11 +2,11 @@
 Creation of dashboard along with time series analysis of sales data of a 
 
 
-Objective:
+**Objective:**
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 
-Process
+**Process**
 To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
 
 1) I can help identify key performance indicators (KPIs) and design an intuitive and visually appealing dashboard. This dashboard can include interactive visualizations and filtering capabilities, allowing users to explore data at different levels of detail.
